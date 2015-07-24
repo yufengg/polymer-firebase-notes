@@ -1,0 +1,22 @@
+{
+  "name": "polymer-firebase-notes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yufengg/polymer-firebase-notes",
+  "authors": [
+    "yufengg@google.com"
+  ],
+  "description": "Showing how to make a notes app with Polymer 1.0.x and Firebase",
+  "keywords": [
+    "polymer",
+    "firebase",
+    "notes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
